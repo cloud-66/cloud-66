@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Vadim.
+
+- ❤ Love: Kubernetes, performance issue troubleshooting, system engineering, databases, monitoring, Go language, JVM.
+
+
 <!--
 **cloud-66/cloud-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
